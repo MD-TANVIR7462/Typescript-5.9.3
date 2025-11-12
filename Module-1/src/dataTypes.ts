@@ -12,3 +12,9 @@ const isDefined: undefined = undefined
 const isNull: undefined = undefined
 //* any data type  - any type of data defined
 const anything: any = 12
+
+
+// ? arrays with defined data types
+const arr1: string[] = ["tanvir", "evan", "noor", "alifa"]
+const coOrdinates: (string | number)[] = ["tanvir",12,"evan"]
+let orderPair:[string,number,boolean] = ["Mr x",24,true] //tuple
