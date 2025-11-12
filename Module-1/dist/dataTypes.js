@@ -14,7 +14,6 @@ const isNull = undefined;
 const anything = 12;
 // ? arrays with defined data types
 const arr1 = ["tanvir", "evan", "noor", "alifa"];
-// arr1.push(12) //?it will not allowed by typescript
-arr1.push("Rivnat");
 const coOrdinates = ["tanvir", 12, "evan"];
+let orderPair = ["Mr x", 24, true]; //tuple
 export {};
