@@ -14,7 +14,7 @@ const user: TUser = {
     LastName: "Mr",
     isMarried:"Yes"
 }
-// *without option type 
+// *without optional type 
 const user2: TUser = {
     firstNAme: "Tanvir",
     middleName: "Evan",
@@ -22,6 +22,3 @@ const user2: TUser = {
 
     
 }
-
-
-//* how to use optional type

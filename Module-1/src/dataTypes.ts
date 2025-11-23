@@ -9,7 +9,7 @@ const isAdmin: boolean = true
 //* undefined data type 
 const isDefined: undefined = undefined
 //* null data type 
-const isNull: undefined = undefined
+const isNull: null = null
 //* any data type  - any type of data defined
 const anything: any = 12
 
